@@ -1,7 +1,7 @@
 # Pattern-Recognition-and-Machine-Learning
 Bishop's book of the same name
 
-# Progress Board (27 / 419 (6.44%))
+# Progress Board (30 / 419 (7.16%))
 ## 1. Introduction (5 / 41)
 * ✅ 7
 * ✅ 8
@@ -35,9 +35,12 @@ Bishop's book of the same name
 * ✅ 9
 * ✅ 10
 * ✅ 12
-## 9. Mixture Models and EM (2 / 27)
+## 9. Mixture Models and EM (5 / 27)
 * ✅ 1
 * ✅ 3
+* ✅ 4
+* ✅ 5
+* ✅ 24
 ## 10. Approximate Inference (0 / 39)
 ## 11. Sampling Methods (0 / 17)
 ## 12. Continuous Latent Variables (0 / 17)
